@@ -235,6 +235,16 @@ Sample data in the dump includes example products (e.g., Mango, Ladyfinger, Bajr
 
 ---
 
+
+## Team
+
+Database / AgroCulture project · **Daffodil International University**
+
+| Member | ID |
+|--------|-----|
+| Md. Shadman Hasin | 0242220005101462 |
+| Md. Shadman Tahsin | 0242220005101461 |
+
 ## Limitations
 
 - Designed for local / academic demonstration, not production deployment
